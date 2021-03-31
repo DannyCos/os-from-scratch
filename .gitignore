@@ -1,1 +1,8 @@
+# Binary files
 **/*.bin
+
+# Object files
+**/*.o
+
+# Disassembled binary files
+**/*.dis
