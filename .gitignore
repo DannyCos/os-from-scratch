@@ -6,3 +6,6 @@
 
 # Disassembled binary files
 **/*.dis
+
+# os-image file
+**/os-image
